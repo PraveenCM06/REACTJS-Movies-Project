@@ -20,6 +20,9 @@ const Navbar = () => {
             <div id="logo">
                 <Link to="/"> <h1 id="main-logo"> <i>Zeflix</i> </h1></Link>
             </div>
+            <div>
+                <p>hello</p>
+            </div>
             <div id="search-bar">
                 <input type="search"
                     placeholder="Search for movies"
